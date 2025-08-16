@@ -1,4 +1,7 @@
-# lakp.github.io<br/>
+# Knight Survivor<br/>
+[Click to play](https://lakp.github.io/Knight-Survivor/)
+
+## Controls<br/>
 d / right = go right<br/>
 a / left = go left<br/>
 w / up = jump<br/>
@@ -12,7 +15,8 @@ z = zoom in/out map editor<br/>
 attack projectiles to deflect them<br/>
 crouch + roll to drop down walkway<br/>
 
-===Graphics===<br/>
+## Credits<br/>
+### Graphics<br/>
 Dungeon Tile Set by David G<br/>
 FreeKnight_v1 by aamatniekss<br/>
 Animated pixel art skeleton by AstroBob<br/>
@@ -23,7 +27,7 @@ Medieval Fantasy Character Pack 4 by OcO<br/>
 Free Effect and Bullet 16x16 by BDragon1727<br/>
 Free Effect Bullet Impact Explosion 32x32 by  BDragon1727<br/>
 
-===Audio===<br/>
+### Audio<br/>
 jumps by ttttrr (Freesound)<br/>
 Male Scream in Fear by Universfield<br/>
 Horror Bone Crack by Universfield<br/>
