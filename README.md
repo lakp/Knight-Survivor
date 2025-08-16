@@ -1,5 +1,5 @@
 # Knight Survivor<br/>
-[Click to play](https://lakp.github.io/Knight-Survivor/)
+### [Click to play](https://lakp.github.io/Knight-Survivor/)
 
 ## Controls<br/>
 d / right = go right<br/>
@@ -9,11 +9,16 @@ s / down = crouch<br/>
 j / z = attack<br/>
 k / x = roll<br/>
 p = pause<br/>
-m = toggle map editor<br/>
-z = zoom in/out map editor<br/>
 
 attack projectiles to deflect them<br/>
 crouch + roll to drop down walkway<br/>
+
+m = toggle map editor<br/>
+space = tile picker 
+z = zoom in/out<br/>
+q = previous tile
+e = quick erase
+r = reset camera
 
 ## Credits<br/>
 ### Graphics<br/>
