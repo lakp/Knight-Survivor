@@ -10,7 +10,7 @@ m = toggle map editor<br/>
 z = zoom in/out map editor<br/>
 
 attack projectiles to deflect them<br/>
-crouch + roll = drop down walkway<br/>
+crouch + roll to drop down walkway<br/>
 
 ===Graphics===<br/>
 Dungeon Tile Set by David G<br/>
