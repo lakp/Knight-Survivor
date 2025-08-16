@@ -14,11 +14,11 @@ attack projectiles to deflect them<br/>
 crouch + roll to drop down walkway<br/>
 
 m = toggle map editor<br/>
-space = tile picker 
+space = tile picker<br/>
 z = zoom in/out<br/>
-q = previous tile
-e = quick erase
-r = reset camera
+q = previous tile<br/>
+e = quick erase<br/>
+r = reset camera<br/>
 
 ## Credits<br/>
 ### Graphics<br/>
