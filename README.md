@@ -55,7 +55,6 @@ cave monster by nuncaconoci (Freesound)<br/>
 Goblin Scream by spookymodem (Freesound)<br/>
 Short Fire Whoosh_1 by DJARTMUSIC<br/>
 Steam Hissing by DRAGON-STUDIO<br/>
-Loon Call by DRAGON-STUDIO<br/>
 monster bite by soundmast123 (Freesound)<br/>
 Dragon Roar by Saviraz (Freesound)<br/>
 Monster Roar by thehorriblejoke (Freesound)<br/>
